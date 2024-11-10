@@ -1,2 +1,2 @@
-# thornton-hill
-Real estate application 
+#   SKILLZ COMPUTER
+E-commerce webpage for computer and accessories
